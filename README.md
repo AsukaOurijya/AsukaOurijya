@@ -1,4 +1,4 @@
-# Greetings <del>Stalker</del> Visitor! 👋 <br>
+# Greetings <del>Stalker</del> Visitors! 👋 <br>
 
 
 ## 🌐 Socials:
