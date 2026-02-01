@@ -1,5 +1,5 @@
 # Greetings <del>Stalker</del> Visitors! 👋 <br>
-CS student that has high interest on software engineering and a bit of data science. 
+CS student that has high interest in software engineering and a bit of data science. 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/azkaaawliya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muh-azkaawliya) 
